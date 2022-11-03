@@ -1,0 +1,2 @@
+# blacklistedDomain
+list of domains
